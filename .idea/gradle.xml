@@ -10,6 +10,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/week5" />
+            <option value="$PROJECT_DIR$/week52" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
